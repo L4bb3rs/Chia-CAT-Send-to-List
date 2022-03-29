@@ -5,7 +5,7 @@
 
 **Linux** - Place a file named list.txt which contains XCH addresses (1 Per line) and python script in location /.chia/mainnet/config
 
-Once placed in folder execute python ChiaCatSend.py from command line and follow text prompts. Note this script uses RPC calls and standard wallet settings.
+Once placed in folder execute python .\ChiaCatSend.py from command line and follow text prompts. Note this script uses RPC calls and standard wallet settings.
 
 
 If you like the script feel free to donate: **xch1d3krkryc4zyh4zkecear9l9tqddx9rzhe7gud8r903pz2v90u3zsfydahj**
