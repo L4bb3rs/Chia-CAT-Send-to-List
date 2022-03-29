@@ -1,5 +1,5 @@
-# Chia-CAT-List-Send
-## Send Chia CAT tokens to a list in of addresses in a text file.
+# Chia CAT send to list
+## Send Chia CAT tokens to a list of addresses in contained in a text file.
 
 **Windows** - Place a file named list.txt which contains XCH addresses (1 Per line) and python script in C:\Users\username\.chia\mainnet\config
 
